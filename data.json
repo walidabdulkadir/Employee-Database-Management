@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": "Walid",
+    "lastName": "Abdulkadir",
+    "email": "walid@gmail.com",
+    "phone": "0922113344",
+    "salary": "5000",
+    "dob": "1979-08-26",
+    "image": "IMAGE/IMG1.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Muhammed",
+    "lastName": "Mustefa",
+    "email": "muhammed@gmail.com",
+    "phone": "0911332244",
+    "salary": "4800",
+    "dob": "1985-04-12",
+    "image": "IMAGE/IMG2.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Ahmed",
+    "lastName": "Muhammed",
+    "email": "ahmed@gmail.com",
+    "phone": "0911223344",
+    "salary": "6200",
+    "dob": "1990-11-05",
+    "image": "IMAGE/IMG3.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Oumer",
+    "lastName": "Muhammed",
+    "email": "oumer@gmail.com",
+    "phone": "0912345678",
+    "salary": "9200",
+    "dob": "1990-11-05",
+    "image": "IMAGE/IMG4.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Ahmed",
+    "lastName": "Endro",
+    "email": "ahmed@gmail.com",
+    "phone": "0912345678",
+    "salary": "8200",
+    "dob": "1990-11-05",
+    "image": "IMAGE/IMG5.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Abubeker",
+    "lastName": "Hussen",
+    "email": "abubeker@gmail.com",
+    "phone": "0912345678",
+    "salary": "5200",
+    "dob": "1990-11-05",
+    "image": "IMAGE/IMG6.jpg"
+  }
+]
